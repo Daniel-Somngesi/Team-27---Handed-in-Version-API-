@@ -1,0 +1,500 @@
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\obj\Debug\MakeSale.csprojAssemblyReference.cache
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\obj\Debug\MakeSale.csproj.CoreCompileInputs.cache
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\MakeSale.dll.config
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\MakeSale.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\MakeSale.pdb
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csc.exe
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csc.exe.config
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csc.rsp
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csi.exe
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csi.exe.config
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\csi.rsp
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.AppContext.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Console.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.IO.Compression.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Net.Http.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.ValueTuple.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\vbc.exe
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\vbc.exe.config
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\vbc.rsp
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\VBCSCompiler.exe
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Antlr3.Runtime.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\EntityFramework.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\EntityFramework.SqlServer.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Newtonsoft.Json.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Net.Http.Formatting.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Helpers.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.WebHost.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Mvc.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Optimization.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Razor.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.Razor.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\WebGrease.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\EntityFramework.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\EntityFramework.SqlServer.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Newtonsoft.Json.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Net.Http.Formatting.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Helpers.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.WebHost.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Mvc.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Optimization.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Razor.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.WebPages.Razor.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Antlr3.Runtime.pdb
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\obj\Debug\MakeSale.csproj.CopyComplete
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\obj\Debug\MakeSale.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\obj\Debug\MakeSale.pdb
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Options.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Buffers.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.ComponentModel.Annotations.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Memory.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Numerics.Vectors.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Text.Encodings.Web.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Cors.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.Cors.dll
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Options.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Buffers.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Memory.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Numerics.Vectors.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Text.Encodings.Web.xml
+C:\Users\Default User.DESKTOP-RU7SJN2\Documents\Programming Projects\Make Sale\MakeSale\MakeSale\bin\System.Web.Http.Cors.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\MakeSale.dll.config
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\MakeSale.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\MakeSale.pdb
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csc.exe
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csc.exe.config
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csc.rsp
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csi.exe
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csi.exe.config
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\csi.rsp
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.AppContext.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Collections.Immutable.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Console.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Globalization.Calendars.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.IO.Compression.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.IO.FileSystem.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Net.Http.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Net.Sockets.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Reflection.Metadata.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.ValueTuple.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Xml.XPath.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\vbc.exe
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\vbc.exe.config
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\vbc.rsp
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\VBCSCompiler.exe
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\roslyn\VBCSCompiler.exe.config
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Antlr3.Runtime.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\EntityFramework.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\EntityFramework.SqlServer.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Cors.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Options.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Primitives.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Net.Http.Headers.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Web.Infrastructure.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Newtonsoft.Json.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Buffers.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.ComponentModel.Annotations.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Memory.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Net.Http.Formatting.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Numerics.Vectors.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Text.Encodings.Web.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Cors.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Helpers.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.Cors.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.WebHost.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Mvc.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Optimization.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Razor.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.Deployment.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.Razor.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\WebGrease.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\EntityFramework.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\EntityFramework.SqlServer.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Cors.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Options.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Extensions.Primitives.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.Net.Http.Headers.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Buffers.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Memory.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Numerics.Vectors.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Text.Encodings.Web.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.Cors.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Newtonsoft.Json.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Net.Http.Formatting.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Helpers.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Http.WebHost.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Mvc.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Optimization.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.Razor.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.Deployment.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\System.Web.WebPages.Razor.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Antlr3.Runtime.pdb
+C:\Make Sale Subsystem\MakeSale\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Make Sale Subsystem\MakeSale\MakeSale\obj\Debug\MakeSale.csprojAssemblyReference.cache
+C:\Make Sale Subsystem\MakeSale\MakeSale\obj\Debug\MakeSale.csproj.CoreCompileInputs.cache
+C:\Make Sale Subsystem\MakeSale\MakeSale\obj\Debug\MakeSale.csproj.CopyComplete
+C:\Make Sale Subsystem\MakeSale\MakeSale\obj\Debug\MakeSale.dll
+C:\Make Sale Subsystem\MakeSale\MakeSale\obj\Debug\MakeSale.pdb
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\MakeSale.dll.config
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\MakeSale.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\MakeSale.pdb
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csc.exe
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csc.exe.config
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csc.rsp
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csi.exe
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csi.exe.config
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\csi.rsp
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.AppContext.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Console.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.IO.Compression.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Net.Http.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Net.Sockets.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.ValueTuple.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Xml.XPath.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\vbc.exe
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\vbc.exe.config
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\vbc.rsp
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\VBCSCompiler.exe
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Antlr3.Runtime.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\EntityFramework.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\EntityFramework.SqlServer.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Options.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Newtonsoft.Json.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Buffers.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.ComponentModel.Annotations.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Memory.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Net.Http.Formatting.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Numerics.Vectors.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Text.Encodings.Web.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Cors.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Helpers.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.Cors.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.WebHost.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Mvc.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Optimization.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Razor.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.Razor.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\WebGrease.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\EntityFramework.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\EntityFramework.SqlServer.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Options.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Buffers.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Memory.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Numerics.Vectors.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Text.Encodings.Web.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.Cors.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Newtonsoft.Json.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Net.Http.Formatting.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Helpers.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Http.WebHost.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Mvc.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Optimization.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.Razor.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\System.Web.WebPages.Razor.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Antlr3.Runtime.pdb
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\obj\Debug\MakeSale.csprojAssemblyReference.cache
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\obj\Debug\MakeSale.csproj.CoreCompileInputs.cache
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\obj\Debug\MakeSale.csproj.CopyComplete
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\obj\Debug\MakeSale.dll
+C:\Users\u1735\OneDrive\Desktop\INF 370\Del 5 & 6\API\MakeSale\obj\Debug\MakeSale.pdb
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\MakeSale.dll.config
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\MakeSale.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\MakeSale.pdb
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csc.exe
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csi.exe
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Net.Http.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\EntityFramework.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Cors.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Buffers.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Memory.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Cors.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.Cors.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\WebGrease.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\EntityFramework.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Cors.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Buffers.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Memory.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.Cors.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\obj\Debug\MakeSale.csprojAssemblyReference.cache
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\obj\Debug\MakeSale.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\obj\Debug\MakeSale.csproj.CopyComplete
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\obj\Debug\MakeSale.dll
+C:\Users\User\source\repos\New folder\GROUP-27_API\MakeSale\obj\Debug\MakeSale.pdb

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0b845ac9f02e48a9a673ff5b751a20a3" Name="Diagram1">
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Bottle_Colour" Width="1.5" PointX="3.75" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Employee_Status" Width="1.5" PointX="1.5" PointY="22.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Feedback" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Image" Width="1.5" PointX="3.75" PointY="29.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Label_Colour" Width="1.5" PointX="3.75" PointY="31.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Price" Width="1.5" PointX="5.25" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Product_Size" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Purpose" Width="1.5" PointX="3.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Quotation" Width="1.5" PointX="3.75" PointY="35.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_RequestForQuotation" Width="1.5" PointX="9.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_RequestForQuotationLinePrice" Width="1.5" PointX="6" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Security_Question" Width="1.5" PointX="9.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Shape" Width="1.5" PointX="3.75" PointY="39" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Size" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_Supplier_OrderLines" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_SupplierOrder" Width="1.5" PointX="3.75" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_SupplierOrder_Status" Width="1.5" PointX="11.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_SupplierOrder_StatusLine" Width="1.5" PointX="11.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_TrackOrder_Status" Width="1.5" PointX="12.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_User" Width="1.5" PointX="1.5" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.C_UserSecurity_Question" Width="1.5" PointX="11.25" PointY="23.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Cart" Width="1.5" PointX="10.25" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.CartItem" Width="1.5" PointX="5.25" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Client" Width="1.5" PointX="3.75" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ClientOrder" Width="1.5" PointX="8" PointY="15.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ClientOrderLine" Width="1.5" PointX="10.25" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ClientOrderStatu" Width="1.5" PointX="12.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.DeliveryAddress" Width="1.5" PointX="9" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.DeliveryCollection" Width="1.5" PointX="5.75" PointY="41.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.DeliveryCost" Width="1.5" PointX="8" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Employee" Width="1.5" PointX="3.75" PointY="21.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.EmployeeStatu" Width="1.5" PointX="12.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Feedback" Width="1.5" PointX="13.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Flavour" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Payment" Width="1.5" PointX="3.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.PaymentMethod" Width="1.5" PointX="1.5" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Product" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ProductCategory" Width="1.5" PointX="1.5" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ProductType" Width="1.5" PointX="1.5" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ReturnLine" Width="1.5" PointX="10.5" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.ReturnSale" Width="1.5" PointX="13.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Sale" Width="1.5" PointX="6" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.SaleLine" Width="1.5" PointX="8.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Supplier" Width="1.5" PointX="12.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Surburb" Width="1.5" PointX="6.75" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.sysdiagram" Width="1.5" PointX="14.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Title" Width="1.5" PointX="1.5" PointY="19" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBS_POSableModel.UserRole" Width="1.5" PointX="9" PointY="23.375" IsExpanded="true" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Bott__04E4BC85" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Employee___Emplo__173876EA" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Imag__06CD04F7" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Labe__05D8E0BE" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Price__Product_Size" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___Product____Size__787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Product_Size_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK_CartItem__Product_Size" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK_SaleLine__Product_Size" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Purp__03F0984C" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Quot__08B54D69" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Shap__07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF___Size__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___RequestF__Produ__09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___Supplier___Supp__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___Supplier__Produ__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Client___User_ID__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Employee___User___164452B1" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK___UserSecu__UserR__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Cart__ClientOrde__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Client__Title_ID__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ClientOrd__Clien__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__DeliveryA__Clien__114A936A" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Sale__Client_ID__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__UserRole__Client__1ED998B2" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ClientOrd__Clien__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ClientOrd__Deliv__24927208" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ClientOrd__Produ__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__DeliveryA__Surbu__123EB7A3" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__DeliveryC__Deliv__0C85DE4D" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Sale__Employee_I__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__UserRole__Employ__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Flavour__Product__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Payment__Payment__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Sale__Payment_ID__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Product__Product__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Product__Product__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ReturnLin__Retur__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__ReturnLin__SaleL__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="DBS_POSableModel.FK__SaleLine__Sale_I__4D94879B" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBS_POSableModel.Measurement" Width="1.5" PointX="15.375" PointY="10.875" />
+        <AssociationConnector Association="DBS_POSableModel.FK__Product_Size_Measurement" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

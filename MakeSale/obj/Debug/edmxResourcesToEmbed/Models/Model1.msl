@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBS_POSableModelStoreContainer" CdmEntityContainer="DBS_POSableEntities">
+    <EntitySetMapping Name="C_Bottle_Colour">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Bottle_Colour">
+        <MappingFragment StoreEntitySet="_Bottle_Colour">
+          <ScalarProperty Name="C_Bottle_Colour_ID" ColumnName="_Bottle_Colour_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Employee_Status">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Employee_Status">
+        <MappingFragment StoreEntitySet="_Employee_Status">
+          <ScalarProperty Name="C_EmployeeStatus_ID" ColumnName="_EmployeeStatus_ID" />
+          <ScalarProperty Name="C_EmployeeStatus_Name" ColumnName="_EmployeeStatus_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Feedback">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Feedback">
+        <MappingFragment StoreEntitySet="_Feedback">
+          <ScalarProperty Name="C_Feedback_ID" ColumnName="_Feedback_ID" />
+          <ScalarProperty Name="C_Feedback_Message" ColumnName="_Feedback_Message" />
+          <ScalarProperty Name="C_Date" ColumnName="_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Image">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Image">
+        <MappingFragment StoreEntitySet="_Image">
+          <ScalarProperty Name="C_Image_ID" ColumnName="_Image_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Label_Colour">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Label_Colour">
+        <MappingFragment StoreEntitySet="_Label_Colour">
+          <ScalarProperty Name="C_Label_Colour_ID" ColumnName="_Label_Colour_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Price">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Price">
+        <MappingFragment StoreEntitySet="_Price">
+          <ScalarProperty Name="C_Price_ID" ColumnName="_Price_ID" />
+          <ScalarProperty Name="C_Date" ColumnName="_Date" />
+          <ScalarProperty Name="C_Product_Size_ID" ColumnName="_Product_Size_ID" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Product_Size">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Product_Size">
+        <MappingFragment StoreEntitySet="_Product_Size">
+          <ScalarProperty Name="MeasurementID" ColumnName="MeasurementID" />
+          <ScalarProperty Name="C_Product_Size_ID" ColumnName="_Product_Size_ID" />
+          <ScalarProperty Name="C_Size_ID" ColumnName="_Size_ID" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="QuantityOnHand" ColumnName="QuantityOnHand" />
+          <ScalarProperty Name="Barcode" ColumnName="Barcode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Purpose">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Purpose">
+        <MappingFragment StoreEntitySet="_Purpose">
+          <ScalarProperty Name="C_Purpose_ID" ColumnName="_Purpose_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Quotation">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Quotation">
+        <MappingFragment StoreEntitySet="_Quotation">
+          <ScalarProperty Name="C_Quotation_ID" ColumnName="_Quotation_ID" />
+          <ScalarProperty Name="C_Shape" ColumnName="_Shape" />
+          <ScalarProperty Name="C_Colour" ColumnName="_Colour" />
+          <ScalarProperty Name="C_Image" ColumnName="_Image" />
+          <ScalarProperty Name="C_Date" ColumnName="_Date" />
+          <ScalarProperty Name="C_Quottion_Template" ColumnName="_Quottion_Template" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_RequestForQuotation">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_RequestForQuotation">
+        <MappingFragment StoreEntitySet="_RequestForQuotation">
+          <ScalarProperty Name="C_RequestForQuotation_ID" ColumnName="_RequestForQuotation_ID" />
+          <ScalarProperty Name="C_Date" ColumnName="_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_RequestForQuotationLinePrice">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_RequestForQuotationLinePrice">
+        <MappingFragment StoreEntitySet="_RequestForQuotationLinePrice">
+          <ScalarProperty Name="C_RequestForQuotationLinePrice_ID" ColumnName="_RequestForQuotationLinePrice_ID" />
+          <ScalarProperty Name="C_Size_ID" ColumnName="_Size_ID" />
+          <ScalarProperty Name="C_Purpose_ID" ColumnName="_Purpose_ID" />
+          <ScalarProperty Name="C_Bottle_Colour_ID" ColumnName="_Bottle_Colour_ID" />
+          <ScalarProperty Name="C_Label_Colour_ID" ColumnName="_Label_Colour_ID" />
+          <ScalarProperty Name="C_Image_ID" ColumnName="_Image_ID" />
+          <ScalarProperty Name="C_Shape_ID" ColumnName="_Shape_ID" />
+          <ScalarProperty Name="C_Quotation_ID" ColumnName="_Quotation_ID" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Security_Question">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Security_Question">
+        <MappingFragment StoreEntitySet="_Security_Question">
+          <ScalarProperty Name="C_SecurityQuestion_ID" ColumnName="_SecurityQuestion_ID" />
+          <ScalarProperty Name="C__SecurityQuestion_Name" ColumnName="__SecurityQuestion_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Shape">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Shape">
+        <MappingFragment StoreEntitySet="_Shape">
+          <ScalarProperty Name="C_Shape_ID" ColumnName="_Shape_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Size">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Size">
+        <MappingFragment StoreEntitySet="_Size">
+          <ScalarProperty Name="C_Size_ID" ColumnName="_Size_ID" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_Supplier_OrderLines">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_Supplier_OrderLines">
+        <MappingFragment StoreEntitySet="_Supplier_OrderLines">
+          <ScalarProperty Name="C_Supplier_OrderLines_ID" ColumnName="_Supplier_OrderLines_ID" />
+          <ScalarProperty Name="C_Quantity" ColumnName="_Quantity" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="C_SupplierOrder_ID" ColumnName="_SupplierOrder_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_SupplierOrder">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_SupplierOrder">
+        <MappingFragment StoreEntitySet="_SupplierOrder">
+          <ScalarProperty Name="C_SupplierOrder_ID" ColumnName="_SupplierOrder_ID" />
+          <ScalarProperty Name="C_SupplierOrder_Quantity" ColumnName="_SupplierOrder_Quantity" />
+          <ScalarProperty Name="C_SupplierOrder_Address" ColumnName="_SupplierOrder_Address" />
+          <ScalarProperty Name="C_SupplierOrder_Price" ColumnName="_SupplierOrder_Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_SupplierOrder_Status">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_SupplierOrder_Status">
+        <MappingFragment StoreEntitySet="_SupplierOrder_Status">
+          <ScalarProperty Name="C_SupplierOrder_Status_ID" ColumnName="_SupplierOrder_Status_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_SupplierOrder_StatusLine">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_SupplierOrder_StatusLine">
+        <MappingFragment StoreEntitySet="_SupplierOrder_StatusLine">
+          <ScalarProperty Name="C_SupplierOrder_StatusLine_ID" ColumnName="_SupplierOrder_StatusLine_ID" />
+          <ScalarProperty Name="C_Date" ColumnName="_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_TrackOrder_Status">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_TrackOrder_Status">
+        <MappingFragment StoreEntitySet="_TrackOrder_Status">
+          <ScalarProperty Name="C_TrackOrder_Status_ID" ColumnName="_TrackOrder_Status_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_User">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_User">
+        <MappingFragment StoreEntitySet="_User">
+          <ScalarProperty Name="C_User_ID" ColumnName="_User_ID" />
+          <ScalarProperty Name="C_User_Name" ColumnName="_User_Name" />
+          <ScalarProperty Name="C_User_Surname" ColumnName="_User_Surname" />
+          <ScalarProperty Name="C_User_UserName" ColumnName="_User_UserName" />
+          <ScalarProperty Name="C_User_Password" ColumnName="_User_Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="C_UserSecurity_Question">
+      <EntityTypeMapping TypeName="DBS_POSableModel.C_UserSecurity_Question">
+        <MappingFragment StoreEntitySet="_UserSecurity_Question">
+          <ScalarProperty Name="C_User_ID" ColumnName="_User_ID" />
+          <ScalarProperty Name="C_User_Name" ColumnName="_User_Name" />
+          <ScalarProperty Name="C_User_Surname" ColumnName="_User_Surname" />
+          <ScalarProperty Name="C_User_UserName" ColumnName="_User_UserName" />
+          <ScalarProperty Name="C_User_Password" ColumnName="_User_Password" />
+          <ScalarProperty Name="UserRole_ID" ColumnName="UserRole_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Carts">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Cart">
+        <MappingFragment StoreEntitySet="Cart">
+          <ScalarProperty Name="CartID" ColumnName="CartID" />
+          <ScalarProperty Name="ClientOrder_ID" ColumnName="ClientOrder_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CartItems">
+      <EntityTypeMapping TypeName="DBS_POSableModel.CartItem">
+        <MappingFragment StoreEntitySet="CartItem">
+          <ScalarProperty Name="CartItem_ID" ColumnName="CartItem_ID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="C_Product_Size_ID" ColumnName="_Product_Size_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="Client_ID" ColumnName="Client_ID" />
+          <ScalarProperty Name="Client_Name" ColumnName="Client_Name" />
+          <ScalarProperty Name="Client_Surname" ColumnName="Client_Surname" />
+          <ScalarProperty Name="Client_Email" ColumnName="Client_Email" />
+          <ScalarProperty Name="C_User_ID" ColumnName="_User_ID" />
+          <ScalarProperty Name="Title_ID" ColumnName="Title_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClientOrders">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ClientOrder">
+        <MappingFragment StoreEntitySet="ClientOrder">
+          <ScalarProperty Name="ClientOrder_ID" ColumnName="ClientOrder_ID" />
+          <ScalarProperty Name="ClientOrder_Date" ColumnName="ClientOrder_Date" />
+          <ScalarProperty Name="ClientOrder_Total" ColumnName="ClientOrder_Total" />
+          <ScalarProperty Name="ClientOrder_Items" ColumnName="ClientOrder_Items" />
+          <ScalarProperty Name="ClientOrder_TotalQuantity" ColumnName="ClientOrder_TotalQuantity" />
+          <ScalarProperty Name="Client_ID" ColumnName="Client_ID" />
+          <ScalarProperty Name="DeliveryCollection_ID" ColumnName="DeliveryCollection_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClientOrderLines">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ClientOrderLine">
+        <MappingFragment StoreEntitySet="ClientOrderLine">
+          <ScalarProperty Name="ClientOrderLine1" ColumnName="ClientOrderLine" />
+          <ScalarProperty Name="ItemPrice" ColumnName="ItemPrice" />
+          <ScalarProperty Name="ItemType" ColumnName="ItemType" />
+          <ScalarProperty Name="ClientOrder_ID" ColumnName="ClientOrder_ID" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ClientOrderStatus">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ClientOrderStatu">
+        <MappingFragment StoreEntitySet="ClientOrderStatus">
+          <ScalarProperty Name="ClientOrderStatus_ID" ColumnName="ClientOrderStatus_ID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryAddresses">
+      <EntityTypeMapping TypeName="DBS_POSableModel.DeliveryAddress">
+        <MappingFragment StoreEntitySet="DeliveryAddress">
+          <ScalarProperty Name="DeliveryAddress_ID" ColumnName="DeliveryAddress_ID" />
+          <ScalarProperty Name="Street_Name" ColumnName="Street_Name" />
+          <ScalarProperty Name="Street_Number" ColumnName="Street_Number" />
+          <ScalarProperty Name="Client_ID" ColumnName="Client_ID" />
+          <ScalarProperty Name="Surburb_ID" ColumnName="Surburb_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryCollections">
+      <EntityTypeMapping TypeName="DBS_POSableModel.DeliveryCollection">
+        <MappingFragment StoreEntitySet="DeliveryCollection">
+          <ScalarProperty Name="DeliveryCollection_ID" ColumnName="DeliveryCollection_ID" />
+          <ScalarProperty Name="C_Option" ColumnName="_Option" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DeliveryCosts">
+      <EntityTypeMapping TypeName="DBS_POSableModel.DeliveryCost">
+        <MappingFragment StoreEntitySet="DeliveryCost">
+          <ScalarProperty Name="DeliveryCost_ID" ColumnName="DeliveryCost_ID" />
+          <ScalarProperty Name="DeliveryCollection_ID" ColumnName="DeliveryCollection_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Employee">
+        <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+          <ScalarProperty Name="Employee_Name" ColumnName="Employee_Name" />
+          <ScalarProperty Name="Employee_Surname" ColumnName="Employee_Surname" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="HomeAddress" ColumnName="HomeAddress" />
+          <ScalarProperty Name="C_User_ID" ColumnName="_User_ID" />
+          <ScalarProperty Name="C_EmployeeStatus_ID" ColumnName="_EmployeeStatus_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmployeeStatus">
+      <EntityTypeMapping TypeName="DBS_POSableModel.EmployeeStatu">
+        <MappingFragment StoreEntitySet="EmployeeStatus">
+          <ScalarProperty Name="EmployeeStatus_ID" ColumnName="EmployeeStatus_ID" />
+          <ScalarProperty Name="EmployeeStatus_Name" ColumnName="EmployeeStatus_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Feedbacks">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Feedback">
+        <MappingFragment StoreEntitySet="Feedback">
+          <ScalarProperty Name="Feedback_ID" ColumnName="Feedback_ID" />
+          <ScalarProperty Name="FeedbackMessage" ColumnName="FeedbackMessage" />
+          <ScalarProperty Name="Feedback_Date" ColumnName="Feedback_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Flavours">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Flavour">
+        <MappingFragment StoreEntitySet="Flavour">
+          <ScalarProperty Name="Flavour_ID" ColumnName="Flavour_ID" />
+          <ScalarProperty Name="Flavour_Name" ColumnName="Flavour_Name" />
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Payment">
+        <MappingFragment StoreEntitySet="Payment">
+          <ScalarProperty Name="Payment_ID" ColumnName="Payment_ID" />
+          <ScalarProperty Name="Payment_Date" ColumnName="Payment_Date" />
+          <ScalarProperty Name="Payment_Amount" ColumnName="Payment_Amount" />
+          <ScalarProperty Name="Payment_Receipt" ColumnName="Payment_Receipt" />
+          <ScalarProperty Name="Payment_Type" ColumnName="Payment_Type" />
+          <ScalarProperty Name="PaymentMethod_ID" ColumnName="PaymentMethod_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PaymentMethods">
+      <EntityTypeMapping TypeName="DBS_POSableModel.PaymentMethod">
+        <MappingFragment StoreEntitySet="PaymentMethod">
+          <ScalarProperty Name="PaymentMethod_ID" ColumnName="PaymentMethod_ID" />
+          <ScalarProperty Name="PaymentMethodName" ColumnName="PaymentMethodName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Products">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="ProductCategory_ID" ColumnName="ProductCategory_ID" />
+          <ScalarProperty Name="ProductType_ID" ColumnName="ProductType_ID" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductCategories">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ProductCategory">
+        <MappingFragment StoreEntitySet="ProductCategory">
+          <ScalarProperty Name="ProductCategory_ID" ColumnName="ProductCategory_ID" />
+          <ScalarProperty Name="ProductCategory_Name" ColumnName="ProductCategory_Name" />
+          <ScalarProperty Name="ProductCategory_Description" ColumnName="ProductCategory_Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductTypes">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ProductType">
+        <MappingFragment StoreEntitySet="ProductType">
+          <ScalarProperty Name="ProductType_ID" ColumnName="ProductType_ID" />
+          <ScalarProperty Name="ProductType_Name" ColumnName="ProductType_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReturnLines">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ReturnLine">
+        <MappingFragment StoreEntitySet="ReturnLine">
+          <ScalarProperty Name="ReturnLine_ID" ColumnName="ReturnLine_ID" />
+          <ScalarProperty Name="SaleLine_ID" ColumnName="SaleLine_ID" />
+          <ScalarProperty Name="ReturnSale_ID" ColumnName="ReturnSale_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ReturnSales">
+      <EntityTypeMapping TypeName="DBS_POSableModel.ReturnSale">
+        <MappingFragment StoreEntitySet="ReturnSale">
+          <ScalarProperty Name="ReturnSale_ID" ColumnName="ReturnSale_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sales">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Sale">
+        <MappingFragment StoreEntitySet="Sale">
+          <ScalarProperty Name="Sale_ID" ColumnName="Sale_ID" />
+          <ScalarProperty Name="Client_ID" ColumnName="Client_ID" />
+          <ScalarProperty Name="SaleDate" ColumnName="SaleDate" />
+          <ScalarProperty Name="Payment_ID" ColumnName="Payment_ID" />
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+          <ScalarProperty Name="Invoice" ColumnName="Invoice" />
+          <ScalarProperty Name="ReceiptNumber" ColumnName="ReceiptNumber" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="SaleVatAmount" ColumnName="SaleVatAmount" />
+          <ScalarProperty Name="BalanceDue" ColumnName="BalanceDue" />
+          <ScalarProperty Name="AmountPaid" ColumnName="AmountPaid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SaleLines">
+      <EntityTypeMapping TypeName="DBS_POSableModel.SaleLine">
+        <MappingFragment StoreEntitySet="SaleLine">
+          <ScalarProperty Name="SaleLine_ID" ColumnName="SaleLine_ID" />
+          <ScalarProperty Name="Sale_ID" ColumnName="Sale_ID" />
+          <ScalarProperty Name="C_Product_Size_ID" ColumnName="_Product_Size_ID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="Supplier_ID" ColumnName="Supplier_ID" />
+          <ScalarProperty Name="Supplier_Name" ColumnName="Supplier_Name" />
+          <ScalarProperty Name="Supplier_EmailAddress" ColumnName="Supplier_EmailAddress" />
+          <ScalarProperty Name="Supplier_PhoneNumber" ColumnName="Supplier_PhoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Surburbs">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Surburb">
+        <MappingFragment StoreEntitySet="Surburb">
+          <ScalarProperty Name="Surburb_ID" ColumnName="Surburb_ID" />
+          <ScalarProperty Name="Surburb_Name" ColumnName="Surburb_Name" />
+          <ScalarProperty Name="Surburb_PostalCode" ColumnName="Surburb_PostalCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DBS_POSableModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Titles">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Title">
+        <MappingFragment StoreEntitySet="Title">
+          <ScalarProperty Name="Title_ID" ColumnName="Title_ID" />
+          <ScalarProperty Name="Title_Name" ColumnName="Title_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRoles">
+      <EntityTypeMapping TypeName="DBS_POSableModel.UserRole">
+        <MappingFragment StoreEntitySet="UserRole">
+          <ScalarProperty Name="UserRole_ID" ColumnName="UserRole_ID" />
+          <ScalarProperty Name="C_UserRole_Type" ColumnName="_UserRole_Type" />
+          <ScalarProperty Name="Employee_ID" ColumnName="Employee_ID" />
+          <ScalarProperty Name="Client_ID" ColumnName="Client_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Measurements">
+      <EntityTypeMapping TypeName="DBS_POSableModel.Measurement">
+        <MappingFragment StoreEntitySet="Measurement">
+          <ScalarProperty Name="Measurement1" ColumnName="Measurement" />
+          <ScalarProperty Name="MeasurementID" ColumnName="MeasurementID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
